@@ -1,0 +1,12 @@
+C:\Users\lucia\OneDrive\Área de Trabalho\PeakInvest\Test\Test.Domain\bin\Debug\net5.0\Test.Domain.deps.json
+C:\Users\lucia\OneDrive\Área de Trabalho\PeakInvest\Test\Test.Domain\bin\Debug\net5.0\Test.Domain.dll
+C:\Users\lucia\OneDrive\Área de Trabalho\PeakInvest\Test\Test.Domain\bin\Debug\net5.0\ref\Test.Domain.dll
+C:\Users\lucia\OneDrive\Área de Trabalho\PeakInvest\Test\Test.Domain\bin\Debug\net5.0\Test.Domain.pdb
+C:\Users\lucia\OneDrive\Área de Trabalho\PeakInvest\Test\Test.Domain\obj\Debug\net5.0\Test.Domain.csproj.AssemblyReference.cache
+C:\Users\lucia\OneDrive\Área de Trabalho\PeakInvest\Test\Test.Domain\obj\Debug\net5.0\Test.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Área de Trabalho\PeakInvest\Test\Test.Domain\obj\Debug\net5.0\Test.Domain.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Área de Trabalho\PeakInvest\Test\Test.Domain\obj\Debug\net5.0\Test.Domain.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Área de Trabalho\PeakInvest\Test\Test.Domain\obj\Debug\net5.0\Test.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Área de Trabalho\PeakInvest\Test\Test.Domain\obj\Debug\net5.0\Test.Domain.dll
+C:\Users\lucia\OneDrive\Área de Trabalho\PeakInvest\Test\Test.Domain\obj\Debug\net5.0\ref\Test.Domain.dll
+C:\Users\lucia\OneDrive\Área de Trabalho\PeakInvest\Test\Test.Domain\obj\Debug\net5.0\Test.Domain.pdb

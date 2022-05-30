@@ -1,0 +1,26 @@
+<h1>{{titulo}}</h1>
+<div>
+<form [formGroup]="emprestimoForm" (submit)="emprestimoSubmit()">
+  <div class="form-group">
+    <label for="formGroupExampleInput">Valor do emprestimo</label>
+    <input type="text" [(ngModel)]="valor" formControlName="valor" class="form-control" step="0.010">
+  </div>
+  <div>
+    <label for="formGroupExampleInput2">Quantidade deParcelas</label>
+    <input type="number" [(ngModel)]="qntParcelas" formControlName="qntParcelas" class="form-control">
+  </div>
+  <div>
+    <label for="formGroupExampleInput2">Valor das Parcelas</label>
+    <input class="form-control" type="text" value="{{resultado}}" readonly>
+    <hr>
+  </div>
+  <div class="row">
+    <button class="btn btn-success" [disabled]="!emprestimoForm.valid" (click)="SubmitEmprestimo()">Calcular</button>
+  </div>
+</form>
+</div>
+
+
+
+
+
